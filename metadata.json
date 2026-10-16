@@ -1,0 +1,6 @@
+{
+  "name": "Novahair Clinical & Enterprise Suite",
+  "description": "High-end hair restoration ERP and clinical suite featuring Egyptian client CRM, Norwood diagnostic assessments, surgical planning, and localized multi-channel billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
